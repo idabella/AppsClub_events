@@ -1,0 +1,47 @@
+Session ID,Event Name,Date,Attendees Count,Rating,Speaker,New Attendees,Online/Offline,Duration
+1,Intro to CS,7-Oct-2024,50,4.2,Ilyas Nmili,10,Offline,60
+2,Intro to CS,14-Oct-2024,52,4.5,Hasnae Amarmach,8,Offline,75
+3,Intro to CS,21-Oct-2024,49,4,Hasnae Amarmach,7,Offline,90
+4,Intro to CS,28-Oct-2024,51,4.3,Hasnae Amarmach,9,Offline,90
+5,Intro to CS,4-Nov-2024,50,,Hasnae Amarmach,6,Offline,80
+6,Intro to CS,11-Nov-2024,50,4,Hasnae Amarmach,5,Offline,90
+7,Intro to CS,18-Nov-2024,51,4.3,Hasnae Amarmach,4,Offline,90
+8,Intro to CS,25-Nov-2024,50,4.1,Hasnae Amarmach,3,Offline,90
+9,Intro to CS,2-Dec-2024,50,4.2,Ilyas Nmili,2,,90
+10,Intro to CS,9-Dec-2024,49,4,Hasnae Amarmach,2,Offline,90
+11,Intro to CS,16-Dec-2024,50,4.1,Hasnae Amarmach,1,Offline,90
+12,Python Basics,8-Oct-2024,80,4.6,Amine Ait Hamma,20,Offline,90
+13,Python Basics,12-Oct-2024,10,4.6,Amine Ait Hamma,5,Online,120
+14,Python Basics,15-Oct-2024,65,4.5,Amine Ait Hamma,15,Offline,90
+15,Python Basics,19-Oct-2024,11,4.6,Amine Ait Hamma,1,Online,120
+16,Python Basics,22-Oct-2024,50,4.1,Amine Ait Hamma,10,Offline,90
+17,Python Basics,26-Oct-2024,7,4.6,Amine Ait Hamma,0,Online,120
+18,Python Basics,29-Oct-2024,35,3.8,Amine Ait Hamma,5,Offline,90
+19,Python Basics,2-Nov-2024,14,4.6,Amine Ait Hamma,4,Online,120
+20,Python Basics,5-Nov-2024,,4,Amine Ait Hamma,2,,90
+21,Intro to Data,12-Nov-2024,40,4.4,Nohaila El Idrissi,15,Offline,80
+22,Intro to Data,19-Nov-2024,30,3.5,Nohaila El Idrissi,10,Offline,70
+23,Intro to Data,26-Nov-2024,20,4,Nohaila El Idrissi,5,,90
+24,Intro to Data,3-Dec-2024,15,3.9,Nohaila El Idrissi,3,Offline,90
+25,Java,10-Dec-2024,25,4.5,Amine Ait Hamma,10,Offline,80
+26,Java,17-Dec-2024,20,4,Amine Ait Hamma,5,Online,120
+27,Java,24-Dec-2024,15,3.9,Amine Ait Hamma,2,Online,100
+28,Biweekly Contest,12-Oct-2024,20,4,Ilyas Nmili,5,Offline,180
+29,Biweekly Contest,26-Oct-2024,20,4.2,Amine Ait Hamma,4,Offline,180
+30,Biweekly Contest,9-Nov-2024,20,4.1,Youssef Taguejgalet,3,Offline,180
+31,Biweekly Contest,23-Nov-2024,20,4.3,Ilyas Nmili,4,Offline,180
+32,Biweekly Contest,7-Dec-2024,20,4.9,Amine Ait Hamma,3,Offline,180
+33,Cyber Security Foundations,7-Nov-2024,35,4.7,Broad Sec Cell,15,Offline,70
+34,Cyber Security Foundations,14-Nov-2024,36,4.5,Broad Sec Cell,12,Offline,90
+35,Cyber Security Foundations,21-Nov-2024,33,4.3,Broad Sec Cell,10,Offline,90
+36,Cyber Security Foundations,28-Nov-2024,30,4,Broad Sec Cell,8,Offline,75
+37,Cyber Security Foundations,5-Dec-2024,28,,Broad Sec Cell,5,Online,90
+38,Cyber Security Foundations,12-Dec-2024,25,,Broad Sec Cell,3,Online,80
+39,Visite Code 212,21-Oct-2024,70,4,Ilyas Nmili,20,Offline,180
+40,CP Bootcamp,24-Nov-2024,60,4.7,Amine Ait Hamma,25,Offline,180
+41,CP Bootcamp,16-Jan-2025,55,4.7,Youssef Taguejgalet,20,Offline,180
+42,Meet Our Laureat,5-Oct-2024,70,4.9,Ilyas Nmili,30,Online,148
+43,AppsChill,15-Nov-2024,25,4.5,Youssef Taguejgalet,10,Online,120
+44,Let's Talk,12-Jan-2025,80,5,Ilyas Nmili,35,Online,60
+45,PFA-PFE,5-Nov-2024,100,4.9,Ilyas Nmili,22,Offline,120
+46,Conference,9-Nov-2024,150,5,Youssef Taguejgalet,50,Offline,240
